@@ -1,0 +1,76 @@
+header{
+    text-align:center;
+    background-color:aquamarine;
+}
+
+h1{
+    color: red;
+}
+footer{
+    text-align: center;
+    background-color:silver;
+
+}
+
+.rapper-muslim{
+    color:red
+}
+
+.section-for-best-songs-for-rapper-muslim{
+    text-align: center;
+    background-color: skyblue;
+    height:100px;
+    font-size: larger;
+    
+}
+
+h2{
+    color:green
+}
+
+.section2{
+    text-align:center;
+    background-color:antiquewhite
+    
+}
+
+.section3{
+    text-align:center;
+    background-color:sandybrown
+    
+}
+
+.section4{
+    text-align:center;
+    background-color:hotpink
+    
+}
+
+.section5{
+    text-align:center;
+    background-color:antiquewhite
+    
+}
+
+.section6{
+    text-align:center;
+    background-color:sandybrown
+    
+}
+
+.section7{
+    text-align:center;
+    background-color:hotpink
+    
+}
+
+
+
+.mama-song-img{
+    width:175x;
+    height:175px;
+}
+
+aside{
+    text-align: right;
+}
